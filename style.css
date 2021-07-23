@@ -97,7 +97,15 @@ Custom Background Color
 .tomato-color-bg{
     background-color: rgb(251, 65, 32);
 }
-
+.etc-bg-color{
+    background-color: #5968BA;
+}
+.usdt-bg-color{
+    background-color: rgb(197, 197, 26);
+}
+.sent-bg-color{
+    background-color: rgb(9, 197, 9);
+}
 /*------------------------------
 Custom Font Size 
 --------------------------------*/
