@@ -2,12 +2,9 @@
 
 body{
     font-family: 'Source Sans Pro', sans-serif;
-    background: #f3f3f3;
+    background: #e7f4f8;
 }
 
-.container-height-area{
-    height: 90vh;
-}
 .container{
   background: rgb(255, 255, 255);
 }
